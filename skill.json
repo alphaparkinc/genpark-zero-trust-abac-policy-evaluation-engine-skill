@@ -1,0 +1,8 @@
+{
+  "name": "genpark-zero-trust-abac-policy-evaluation-engine-skill",
+  "version": "1.0.0",
+  "description": "Zero-trust attribute-based access control (ABAC) policy evaluator, dynamic context rule arbiter, and authorization decision engine",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
